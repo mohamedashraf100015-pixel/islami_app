@@ -1,0 +1,33 @@
+abstract class AppAssets {
+  static const String _baseIconPath = "assets/icons";
+  static const String _baseImagePath = "assets/images";
+  static const String mosque = "$_baseImagePath/Mosque-01.png";
+  static const String introWelcome = "$_baseImagePath/intro_welcome.png";
+  static const String introMosque = "$_baseImagePath/intro_mosque.png";
+  static const String introQuran = "$_baseImagePath/intro_quran.png";
+  static const String introAzkar = "$_baseImagePath/intro_azkar.png";
+  static const String introRadio = "$_baseImagePath/intro_radio.png";
+  static const String quranBackground = "$_baseImagePath/QuranBg.png";
+  static const String hadethBackground = "$_baseImagePath/HadethBg.png";
+  static const String sebhaBackground = "$_baseImagePath/SebhaBg.png";
+  static const String radioBackground = "$_baseImagePath/RadioBg.png";
+  static const String timeBackground = "$_baseImagePath/TimeBg.png";
+  static const String hadethIcon = "$_baseIconPath/hadeth.svg";
+  static const String quranIcon = "$_baseIconPath/quran.svg";
+  static const String radioIcon = "$_baseIconPath/radio.svg";
+  static const String sebhaIcon = "$_baseIconPath/sebha.svg";
+  static const String timeIcon = "$_baseIconPath/time.svg";
+  static const String quranSearchIcon = "$_baseIconPath/quran_searchIcon.svg";
+  static const String imageMostRecent = "$_baseImagePath/most_recent.png";
+  static const String imageSuraNum = "$_baseImagePath/sura_num.png";
+  static const String suraNumIcon = "$_baseIconPath/sur_num.svg";
+  static const String rightCornerHadeath = "$_baseImagePath/right_corner_hadeath.png";
+  static const String leftCornerHadeath = "$_baseImagePath/left_corner_hadeath.png";
+  static const String hadethBottomDecoration = "$_baseImagePath/Mosque_hadeath.png";
+  static const String rightCornerSoura = "$_baseImagePath/soura_right_corner.png";
+  static const String leftCornerSoura = "$_baseImagePath/soura_left_corner.png";
+  static const String souraBottomDecoration = "$_baseImagePath/soura_bottom_decoration.png";
+  static const String moringBubbleTimeTab = "$_baseImagePath/moring-bubble-time-tab.png";
+  static const String bellTimeTab= "$_baseImagePath/bell_time_tab.png";
+  static const String sebhaHandIcon = "$_baseImagePath/sebha_hand.png";
+}
